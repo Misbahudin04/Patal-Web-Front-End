@@ -1,0 +1,20 @@
+#article{
+    margin-top: 50px;
+    
+}
+
+#article h1{
+    font-size: 15px;
+}
+
+.card-body h1{
+    font-weight: 300 !important;
+}
+
+@media(max-width:768px){
+    .card-body h1{
+        font-size: 11px !important;
+       
+    }   
+    
+}
